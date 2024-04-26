@@ -8,8 +8,11 @@ To put it simply - this app "simplifies" the experience by using a reusable libr
 
 As of the initial release of this code, this library contains over 780 attributes. This list is expected to grow with new releases of Tekla Structures.
 
+# NuGet
+You can install the NuGet package from here: https://www.nuget.org/packages/TeklaStructuresAttributes/1.0.0
+
 # Usage
-It is very simple to use. Reference the NUGET package, and use the `Attributes` class to access the large list of attribute identifiers.
+It is very simple to use. Reference the NuGet package, and use the `Attributes` class to access the large list of attribute identifiers.
 
 ## Basic Example:
 Getting a property (OLD):
