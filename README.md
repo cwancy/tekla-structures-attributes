@@ -6,7 +6,7 @@ Tekla Structures Open API does not have this in-built. When getting/setting attr
 
 To put it simply - this app "simplifies" the experience by using a reusable library instead.
 
-As of the initial release of this code, this library contains over 5,300 attributes. This list is expected to grow with new releases of Tekla Structures.
+As of the initial release of this code, this library contains over 780 attributes. This list is expected to grow with new releases of Tekla Structures.
 
 # Usage
 It is very simple to use. Reference the NUGET package, and use the `Attributes` class to access the large list of attribute identifiers.
