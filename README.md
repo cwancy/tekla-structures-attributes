@@ -1,8 +1,8 @@
 # Tekla Structures Attribute Library
-C# Property Library for using immutable attributes in Tekla Structures.
+A simple C# property library for using immutable attributes in Tekla Structures.
 
 # What is the purpose
-Tekla Structures Open API does not have this in-built. When getting/setting attributes using the API, it will demand a string that can contradict clean code architecture requirements.
+Tekla Structures Open API does not have this in-built. When getting/setting attributes using the API, it will demand a string variable to be used, which may contradict clean code architecture requirements.
 
 To put it simply - this app "simplifies" the experience by using a reusable library instead.
 
@@ -35,3 +35,5 @@ There are some XML hints that have been included. Some hints still need to be ad
 
 # Contributing
 Feel free to contribute to the issues, or create issues yourself. A goal of this project is that developers using the Tekla Open API can benefit from an easy to access library that speeds up their development process.
+
+PR's for your own personal/organizational UDA's will be rejected, as this may be misleading and bloat the code.
