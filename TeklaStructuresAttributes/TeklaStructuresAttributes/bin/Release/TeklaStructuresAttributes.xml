@@ -1,0 +1,4724 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TeklaStructuresAttributes</name>
+    </assembly>
+    <members>
+        <member name="F:TeklaStructuresAttributes.Attributes.ADDED_TO_POUR_UNIT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ADDED_TO_REBAR_ASSEMBLY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ADDRESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ACN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ACTIVE_DESIGN_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ACTUAL_STARTDATE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ACTUAL_ENDDATE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ALIAS_NAME1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ALIAS_NAME2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ALIAS_NAME3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANALYSIS_MODEL_NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANG_S">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANG_T">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANG_U">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANG_U_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANG_U_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANG_V">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANG_V_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANG_V_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ANGLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PER_TONS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PLAN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_GXY_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_GXZ_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_GYZ_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_GXY_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_GXZ_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_GYZ_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_XY_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_XZ_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_YZ_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_XY_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_XZ_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PROJECTION_YZ_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PGZ">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_NGZ">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PGX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_NGX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PGY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_NGY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PZ">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_NZ">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_NX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_PY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_NY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_FORM_TOP">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_FORM_BOTTOM">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_FORM_SIDE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_FORM_TOP_GLOBAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_FORM_BOTTOM_GLOBAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AREA_FORM_SIDE_GLOBAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_BOTTOM_LEVEL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_BOTTOM_LEVEL_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_BOTTOM_LEVEL_GLOBAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_BOTTOM_LEVEL_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_BOTTOM_LEVEL_UNFORMATTED_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_BOTTOM_LEVEL_GLOBAL_UNFORMATTED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_DEFAULT_PREFIX_CHARACTER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_PLWEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_POS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_POSITION_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_PREFIX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_SERIAL_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_START_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_TOP_LEVEL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_TOP_LEVEL_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_TOP_LEVEL_GLOBAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_TOP_LEVEL_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_TOP_LEVEL_UNFORMATTED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_TOP_LEVEL_UNFORMATTED_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_TOP_LEVEL_UNFORMATTED_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSEMBLY_TOP_LEVEL_GLOBAL_UNFORMATTED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ASSOCIATED_OBJECT_ID">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ATTACHED_TO">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ATTACHEDPARTID">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.AUTOPRIMARYWEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOLT_COUNTERSUNK">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOLT_EDGE_DISTANCE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOLT_EDGE_DISTANCE_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOLT_MATERIAL_LENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOLT_NPARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOLT_STANDARD">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOLT_THREAD_LENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOM_LEVEL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOM_LEVEL_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOM_LEVEL_GLOBAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOM_LEVEL_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOM_LEVEL_UNFORMATTED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOM_LEVEL_UNFORMATTED_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOM_LEVEL_UNFORMATTED_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOM_LEVEL_GLOBAL_UNFORMATTED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOTTOMOFFSET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_X_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_Y_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_Z_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_X_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_Y_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MIN_Z_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_X_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_Y_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_Z_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_X_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_Y_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_MAX_Z_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BOUNDING_BOX_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.BUILDER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CANTILEVER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_HEIGHT_ONLY_CONCRETE_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_HEIGHT_ONLY_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_HEIGHT_TOTAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_LENGTH_ONLY_CONCRETE_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_LENGTH_ONLY_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_LENGTH_TOTAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_POS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_POSITION_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_PREFIX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_REBAR_WEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_SERIAL_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_VERTICAL_POSITION_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_WIDTH_ONLY_CONCRETE_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_WIDTH_ONLY_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CAST_UNIT_WIDTH_TOTAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CATALOG_NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_DIAMETER_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_DIAMETER_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_DIAMETER_MAX_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_DIAMETER_MAX_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_DIAMETER_MIN_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_DIAMETER_MIN_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_EXACT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_EXACT_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_EXACT_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_MAX_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_MAX_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_MIN_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_MIN_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_PITCHING_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_PITCHING_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CC_TARGET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CHANGES">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CHECKED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CLASS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CLASS_ATTR">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_X_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_Y_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_Z_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_X_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_Y_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COG_Z_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COLOR">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COMMENT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COMPATIBLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COMPLETENESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONCRETE_COVER_END">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONCRETE_COVER_FROM_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONCRETE_COVER_ON_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONCRETE_COVER_ON_PLANE_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONCRETE_COVER_ON_PLANE_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONCRETE_COVER_START">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONCRETE_MIXTURE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONNECTED_ASSEMBLIES">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONNECTED_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONNECTION_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONNECTION_DSTV">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONNECTION_ERROR">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONNECTION_GROUP">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONNECTION_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONNECTION_RUNNING_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONTENTTYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONTINUOUSBEAMMODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CONTRACTOR">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COUNTRY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.COVER_AREA">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CROSS_SECTION_AREA">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CROSS_SECTION_AREA_START">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CROSS_SECTION_AREA_END">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CURRENT_PHASE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CURRENT_USER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CURVED_SEGMENTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CREATED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.CREATED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_CHECKED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_CREATE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_END">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_ISSUE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_LAST">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_MODIFY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_PLOT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_APPROVED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DATE_START">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DELIVERY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DEPTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DESCRIPTION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DESIGNER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIAMETER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIAMETER_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIAMETER_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIAMETER_ACTUAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIAMETER_NOMINAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIAMETER_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIAMETER_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_A">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_A_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_A_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_B">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_B_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_B_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_C">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_C_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_C_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_D">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_D_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_D_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_E">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_E_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_E_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_F">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_F_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_F_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_G">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_G_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_G_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_H1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_H1_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_H1_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_H2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_H2_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_H2_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_I">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_I_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_I_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_J">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_J_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_J_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K1_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K1_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K2_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K2_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_K_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_L">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_L_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_L_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_O">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_O_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_O_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_R">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_R_ALL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_R_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_R_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_TD">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_TD_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_TD_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_WEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_X_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_X_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_Y_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIM_Y_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIMENSION_A">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIMENSION_B">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DIRECTION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DISCIPLINE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DISPERSIONANGLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DR_DEFAULT_HOLE_SIZE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DR_DEFAULT_WELD_SIZE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.DR_PART_POS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ECCENTRICITY_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ECCENTRICITY_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.EDGE_FOLD">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.EDGE_FOLD_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.EDGE_FOLD_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_X_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_Y_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_Z_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_X_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_Y_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_Z_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_X_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_Y_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END_Z_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END1_ANGLE_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END1_ANGLE_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END1_CUT_ANGLE_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END1_CUT_ANGLE_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END1_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END1_SKEW">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END2_ANGLE_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END2_ANGLE_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END2_CUT_ANGLE_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END2_CUT_ANGLE_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END2_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.END2_SKEW">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.EXTERNAL_GUID">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.EXTRA_LENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FILTER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FILTERINCLUDE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FIXING_METHOD">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_LENGTH_B">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_LENGTH_U">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_SLOPE_RATIO">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_THICKNESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_THICKNESS_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_THICKNESS_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_THICKNESS_B">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_THICKNESS_U">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_WIDTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_WIDTH_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_WIDTH_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_WIDTH_B">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FLANGE_WIDTH_U">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.FINISH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.GRADE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.GROUP_ID">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.GROUP_NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.GROUP_POS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.GROUP_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.GROUP_TYPENAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.GUID">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HAS_CONNECTIONS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HAS_HOLES">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HEAD_DIAMETER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HEAD_THICKNESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HEAD_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HEIGHT_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HEIGHT_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HEIGHT_3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HEIGHT_4">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HIERARCHY_LEVEL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOLE_TOLERANCE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOLE_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOLE_1_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOLE_2_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOLE_3_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOLE_4_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOLE_5_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOOK_END">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOOK_END_ANGLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOOK_END_RADIUS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOOK_END_LENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOOK_START">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOOK_START_ANGLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOOK_START_RADIUS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.HOOK_START_LENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ID">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.INCOMPATIBLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.INFO1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.INFO2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.INNER_DIAMETER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_BENT_PLATE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_CONCEPTUAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_CURVED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_FROZEN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_ISSUED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_ITEM">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_LOCKED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_READY_FOR_ISSUE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_POLYBEAM">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_POUR_BREAK_VALID">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_REBARSET_BAR">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_SPIRAL_BEAM">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.IS_LOFTED_PART">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_CREATED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_CHECKED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_DATE_CREATE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_DATE_CHECKED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_DATE_APPROVED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_DESCRIPTION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_DELIVERY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_INFO1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_INFO2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_MARK">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_APPROVED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_TEXT1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_TEXT2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAST_TEXT3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LAYER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LEG_LENGTH_END">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LEG_LENGTH_START">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LENGTH_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LENGTH_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LENGTH_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LONGHOLE_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LONGHOLE_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LENGTH_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LOCATION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LOCKED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.READY_FOR_ISSUE_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LONG_HOLE_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LONG_HOLE_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LOT_NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.LOT_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MAGNITUDEINFO">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MAIN_PART">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MAJOR_AXIS_LENGTH_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MAJOR_AXIS_LENGTH_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MARK">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MATERIAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MATERIAL_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MESH_POS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MINOR_AXIS_LENGTH_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MINOR_AXIS_LENGTH_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MODEL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MODEL_PATH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MODEL_TOTAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MODIFIED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MODIFIED_ACTION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MODIFIED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MODULUS_OF_ELASTICITY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MOMENT_OF_INERTIA_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MOMENT_OF_INERTIA_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.MORTAR_VOLUME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NAME_BASE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NAME_FULL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NAME_SHORT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NEUTRAL_AXIS_LOCATION_ELASTIC_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NEUTRAL_AXIS_LOCATION_ELASTIC_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NEUTRAL_AXIS_LOCATION_PLASTIC_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NEUTRAL_AXIS_LOCATION_PLASTIC_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NORMALIZED_WARPING_CONSTANT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NUMBER_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NUMBER_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NUMBER_IN_PHASE_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NUMBER_IN_DRAWING">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NUMBER_OF_BARS_IN_GROUP">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.NUMBER_OF_TILE_TYPES">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.OBJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.OBJECT_DESCRIPTION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.OBJECT_LOCKED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.OBJECT_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_X_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_Y_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_Z_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_X_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_Y_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ORIGIN_Z_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.OWNER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PAGE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PAGES">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PART_POS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PART_PREFIX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PART_SERIAL_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PART_START_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PCS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PERCENT_COMPLETE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PERIMETER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PHASE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLAIN_HOLE_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLANNED_STARTDATE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLANNED_ENDDATE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLASTIC_MODULUS_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLASTIC_MODULUS_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLATE_DENSITY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLATE_THICKNESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLATE_TOP_VIEW">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PLOTFILE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POISSONS_RATIO">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POLAR_RADIUS_OF_GYRATION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POSITION_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POSITION_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POSITION_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POSTAL_BOX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POSTAL_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POUR_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POUR_PHASE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.POUR_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PREFIX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PRELIM_MARK">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PRELIM_ASSEM_MARK">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PRIMARYWEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PRODUCT_NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PROFILE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PROFILE_DENSITY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PROFILE_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PROFILE_WEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PROFILE_WEIGHT_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.APPROVED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.PULLOUT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RADIUS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>object</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RADIUS_OF_GYRATION_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RADIUS_OF_GYRATION_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RAIL_ANGLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RAIL_OFFSET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RAIL_RADIUS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.REBAR_ASSEMBLY_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.REBAR_MESH_LEFT_OVERHANG_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.REBAR_MESH_RIGHT_OVERHANG_LONG">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.REBAR_MESH_LEFT_OVERHANG_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.REBAR_MESH_RIGHT_OVERHANG_CROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.REBAR_POS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.REGION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_LOCAL_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_LOCAL_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_LOCAL_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_CURRENT_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_CURRENT_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.RESULTANT_CURRENT_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.REVISION_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ROUNDING_RADIUS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ROUNDING_RADIUS_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ROUNDING_RADIUS_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ROW_IN_ALLPAGES">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.ROW_IN_PAGE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SAWING_ITEM">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SCALE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SCALE1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SCALE2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SCALE3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SCALE4">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SCALE5">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SECTION_MODULUS_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SECTION_MODULUS_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SERIAL_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SHAPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SHAPE_INTERNAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SHEAR_CENTER_LOCATION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SIMILAR_TO_MAIN_PART">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SITE_WORKSHOP">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SIZE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SORT_OF_E_x_Cw_PER_G_x_J">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPANNING">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPANNINGDIRECTION_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPANNINGDIRECTION_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPANNINGDIRECTION_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_1_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_2_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_3_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_4_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_5_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_1_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_2_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_3_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_4_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPECIAL_HOLE_5_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_ANGLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_X_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_Y_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_Z_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_X_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_Y_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_Z_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_X_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_Y_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_BASE_POINT_Z_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_X_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_Y_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_Z_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_X_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_Y_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_Z_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_X_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_Y_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_ROTATION_AXIS_UP_POINT_Z_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_TOTAL_RISE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_TWIST_START">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SPIRAL_TWIST_END">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_X_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_Y_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_Z_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_X_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_Y_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_Z_IN_WORK_PLANE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_X_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_Y_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.START_Z_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STATICAL_MOMENT_Qf">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STATICAL_MOMENT_Qw">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STIFFENER_DIMENSION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STIFFENER_DIMENSION_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STIFFENER_DIMENSION_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STIFFENER_DIMENSION_3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_PULL_FORCE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_N_PATTERN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_N_STRAND">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_POS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_UNBONDED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBONDED_STRANDS_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_START_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_START_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_END_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_END_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBONDED_STRANDS_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_START_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_START_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_END_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_END_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBONDED_STRANDS_3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_START_3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_START_3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_END_3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_END_3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBONDED_STRANDS_4">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_START_4">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_START_4">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_END_4">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_END_4">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBONDED_STRANDS_5">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_START_5">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_START_5">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_MIDDLE_TO_END_5">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.STRAND_DEBOND_LEN_FROM_END_5">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SUBTYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SUPPLEMENT_PART_WEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.SURFACING_NAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TANGENT_OF_PRINCIPAL_AXIS_ANGLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TASKTYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TEXT1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TEXT2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TEXT3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.THERMAL_DILATATION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.THICKNESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.THREAD_IN_MATERIAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TILE_VOLUME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TIME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TITLE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TITLE1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TITLE2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TITLE3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOP_LEVEL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOP_LEVEL_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOP_LEVEL_GLOBAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOP_LEVEL_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOP_LEVEL_UNFORMATTED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOP_LEVEL_UNFORMATTED_BASEPOINT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOP_LEVEL_UNFORMATTED_PROJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOP_LEVEL_GLOBAL_UNFORMATTED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TORSIONAL_CONSTANT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOUCHED">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOUCHED_ACTION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOUCHED_BY">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TOWN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TYPE1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TYPE2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TYPE3">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TYPE4">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TYPENUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.TYPENAME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.USAGE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.USAGE_VALUE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.USER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.USER_PHASE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.VENDOR">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WARPING_CONSTANT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WARPING_STATICAL_MOMENT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WASHER_THICKNESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEB_HEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEB_LENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEB_THICKNESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEB_THICKNESS_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEB_THICKNESS_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEB_WIDTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_M">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_MAX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_MIN">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_ONLY_CONCRETE_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_ONLY_POUR_OBJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_NET_ONLY_CONCRETE_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_NET_ONLY_POUR_OBJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_ONLY_REBARS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_PER_UNIT_LENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_TOTAL">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WEIGHT_TOTAL_IN_GROUP">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ACTUAL_LENGTH1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ACTUAL_LENGTH2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ADDITIONAL_SIZE1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ADDITIONAL_SIZE2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ANGLE1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ANGLE2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ASSEMBLYTYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_CROSSSECTION_AREA1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_CROSSSECTION_AREA2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_DEFAULT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_DIM_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_DIRECTION_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_DIRECTION_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_DIRECTION_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_EDGE_AROUND">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ERRORLIST">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_EFFECTIVE_THROAT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_EFFECTIVE_THROAT2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ELECTRODE_CLASSIFICATION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ELECTRODE_COEFFICIENT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ELECTRODE_STRENGTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_FATHER_CODE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_FATHER_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_FILLTYPE1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_FILLTYPE2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_FINISH1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_FINISH2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_INCREMENT_AMOUNT1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_INCREMENT_AMOUNT2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>int</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_INTERMITTENT_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_LENGTH1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_LENGTH2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_LOGICAL_WELD">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_NDT_INSPECTION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_NUMBER">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_NUMBER_PREFIX">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_PERIOD1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_PERIOD2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_POSITION">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_POSITION_X">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_POSITION_Y">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_POSITION_Z">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_PROCESS_TYPE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ROOT_FACE_THICKNESS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ROOT_FACE_THICKNESS2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ROOT_OPENING">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_ROOT_OPENING2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_SIZE_PREFIX_ABOVE">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_SIZE_PREFIX_BELOW">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_SIZE1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_SIZE2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_TEXT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_TYPE1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_TYPE2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WELD_VOLUME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WIDTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WIDTH_1">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.WIDTH_2">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.VOLUME">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.VOLUME_GROSS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.VOLUME_NET">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.VOLUME_ONLY_CONCRETE_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.VOLUME_ONLY_POUR_OBJECT">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.VOLUME_NET_ONLY_CONCRETE_PARTS">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.X_DIRECTION_WIDTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+        <member name="F:TeklaStructuresAttributes.Attributes.Y_DIRECTION_WIDTH">
+            <summary>
+            NIL_DESCR
+            </summary>
+            <returns>float</returns>
+        </member>
+    </members>
+</doc>

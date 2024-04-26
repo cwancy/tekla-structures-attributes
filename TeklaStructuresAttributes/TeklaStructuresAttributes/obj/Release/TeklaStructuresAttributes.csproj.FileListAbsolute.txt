@@ -1,0 +1,7 @@
+C:\Users\ClancyLewisModdex\Desktop\tekla-structures-attributes\TeklaStructuresAttributes\TeklaStructuresAttributes\bin\Release\TeklaStructuresAttributes.dll
+C:\Users\ClancyLewisModdex\Desktop\tekla-structures-attributes\TeklaStructuresAttributes\TeklaStructuresAttributes\bin\Release\TeklaStructuresAttributes.pdb
+C:\Users\ClancyLewisModdex\Desktop\tekla-structures-attributes\TeklaStructuresAttributes\TeklaStructuresAttributes\obj\Release\TeklaStructuresAttributes.csproj.AssemblyReference.cache
+C:\Users\ClancyLewisModdex\Desktop\tekla-structures-attributes\TeklaStructuresAttributes\TeklaStructuresAttributes\obj\Release\TeklaStructuresAttributes.csproj.CoreCompileInputs.cache
+C:\Users\ClancyLewisModdex\Desktop\tekla-structures-attributes\TeklaStructuresAttributes\TeklaStructuresAttributes\obj\Release\TeklaStructuresAttributes.dll
+C:\Users\ClancyLewisModdex\Desktop\tekla-structures-attributes\TeklaStructuresAttributes\TeklaStructuresAttributes\obj\Release\TeklaStructuresAttributes.pdb
+C:\Users\ClancyLewisModdex\Desktop\tekla-structures-attributes\TeklaStructuresAttributes\TeklaStructuresAttributes\bin\Release\TeklaStructuresAttributes.xml
