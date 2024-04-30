@@ -131,61 +131,61 @@ namespace TeklaStructuresAttributes
         public const string AREA = "AREA";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Area gross
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_GROSS = "AREA_GROSS";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Net surface area
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_NET = "AREA_NET";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Area per tons
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_PER_TONS = "AREA_PER_TONS";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Total upper surface area
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_PLAN = "AREA_PLAN";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Area of the 'shadow' of the part at global XY-plane
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_PROJECTION_GXY_NET = "AREA_PROJECTION_GXY_NET";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Area of the 'shadow' of the part at global XZ-plane
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_PROJECTION_GXZ_NET = "AREA_PROJECTION_GXZ_NET";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Area of the 'shadow' of the part at global YZ-plane
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_PROJECTION_GYZ_NET = "AREA_PROJECTION_GYZ_NET";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Area of the 'shadow' of the part at global XY-plane
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_PROJECTION_GXY_GROSS = "AREA_PROJECTION_GXY_GROSS";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Area of the 'shadow' of the part at global XZ-plane
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_PROJECTION_GXZ_GROSS = "AREA_PROJECTION_GXZ_GROSS";
 
         /// <summary>
-        /// NIL_DESCR
+        /// Area of the 'shadow' of the part at global YZ-plane
         /// </summary>
         /// <returns>float</returns>
         public const string AREA_PROJECTION_GYZ_GROSS = "AREA_PROJECTION_GYZ_GROSS";
